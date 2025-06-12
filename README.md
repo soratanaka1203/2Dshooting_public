@@ -1,5 +1,6 @@
 # 2Dshooting_public
 
-## アセットのデータ削除済み
+## 🚫 注意
+このリポジトリでは、Unity Asset Store のアセット等、著作権上の制約があるファイルは削除しています。
 ## 使用ライブラリ
-- UniTask
+- [UniTask](https://github.com/Cysharp/UniTask)
