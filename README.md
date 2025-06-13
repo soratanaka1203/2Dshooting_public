@@ -1,4 +1,4 @@
-# 2Dshooting_public
+# 2Dshooting
 
 ## 🚫 注意
 このリポジトリでは、Unity Asset Store のアセット等、著作権上の制約があるファイルは削除しています。
