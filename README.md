@@ -5,6 +5,9 @@
 ## 概要
 - Unityで開発した2Dシューティングゲームです。  
 弾の発射・当たり判定、敵AI、ボスの攻撃パターンなどを実装しています。
+## 操作方法
+- WASDキー：移動
+- スペースキー：弾を発射
 ## 使用ライブラリ
 - [UniTask](https://github.com/Cysharp/UniTask)
 ## UnityRoomに公開しました！
