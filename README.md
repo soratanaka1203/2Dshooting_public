@@ -2,6 +2,9 @@
 
 ## 🚫 注意
 このリポジトリでは、Unity Asset Store のアセット等、著作権上の制約があるファイルは削除しています。
+## 概要
+- Unityで開発した2Dシューティングゲームです。  
+弾の発射・当たり判定、敵AI、ボスの攻撃パターンなどを実装しています。
 ## 使用ライブラリ
 - [UniTask](https://github.com/Cysharp/UniTask)
 ## UnityRoomに公開しました！
