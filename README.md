@@ -4,5 +4,5 @@
 このリポジトリでは、Unity Asset Store のアセット等、著作権上の制約があるファイルは削除しています。
 ## 使用ライブラリ
 - [UniTask](https://github.com/Cysharp/UniTask)
-## UnityRoom
-- [UnityRoomに公開しました！](https://unityroom.com/games/soratanaka_2dshooting)
+## UnityRoomに公開しました！
+- https://unityroom.com/games/soratanaka_2dshooting
